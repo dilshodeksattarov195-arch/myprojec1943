@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuync",
+        "uuid": 2395719,
+        "checksum": "tcf9zm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
